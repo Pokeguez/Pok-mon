@@ -1,0 +1,56 @@
+Maison du joueur:
+    -chambre du joueur
+    -mom bla bla
+Labo du Prof 1:
+    -intro rivaux et starters
+    (rivaux: meuf "bougeoise" + billy le péon)
+    -speech sur comment capturer/centre poké/Pokéshop + 5 pokeballs cadeau
+Route 1:
+    -route plaine plutot tranquille avec des trucs comme roucool
+Ville n°1:
+    - école pokémon
+    Arene:
+        -Bump into champion
+Route 2:
+    -comme route 1, peu etre 2/3 poké diff mais en gros same
+    -Lac pour plus tard
+Ferme Wattouat:
+    -retrouver le Wattouat(rencontre avec la team,teammate champion n°1)
+Ville n°1:
+    Arene:
+        -badge (Normal, 3 Pokés(surement roucool, ecrémeuh et un autre nouveau))
+        -donne CT
+        -sugjère aller Ferme écrémeuh
+Route 3:
+    -jsp on vera
+    -combat rival
+Ville n°2:
+    -Quete mine(qui au final est pas dans la ville mais osef)
+    -accès route 4 vers "open world" fermé
+Route 5:
+    -on verra
+Foret:
+    -on vera (surement des trucs a voir après avec coupe)
+Route 6:
+    -on verra, il y aura surement un pont
+Ville n°3:
+    -acces route 7 fermé
+    -rival qui go chateau
+Chateau:
+    -Quete
+    -interaction avec rivale (combat)
+    -obtient coupe
+Ville n°3:
+    Arene: badge (plante, defi avec coupe)
+Route 8:
+    -route avec des loubards en moto et des peons en caravanes enfin bref route quoi
+Ville n°4:
+    -rival "go allez voir le Prof 2"
+    Labo Prof 2:
+        -Assistante "il est parti en vacance a Ville n°..., faut prendre le train, sinon voir Prof 3"
+    Gare:
+        -"Suite a un malaise, le trafic est perturbé"
+    Embarcadère:
+        -boat into Ville n°5
+Ville n°5:
+    -
